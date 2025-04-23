@@ -1,3 +1,7 @@
+#!/bin/python
+# Author: KhanhECB
+# Date: 23/4/2025
+
 from multiprocessing import Process, cpu_count
 import time
 import os

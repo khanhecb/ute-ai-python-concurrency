@@ -1,3 +1,7 @@
+#!/bin/python
+# Author: KhanhECB
+# Date: 23/4/2025
+
 import multiprocessing
 import sys
 from path import Path

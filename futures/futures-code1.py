@@ -1,5 +1,8 @@
-#!/usr/bin/env python3.10
+#!/bin/python
+# Author: KhanhECB
+# Date: 23/4/2025
 # Description: Find all file .py in Folder
+
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from collections import deque
